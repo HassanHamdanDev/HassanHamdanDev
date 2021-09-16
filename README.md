@@ -6,7 +6,7 @@
 
 ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanHamdanDev&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanHamdanDev&layout=compact&theme=dracula&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanHamdanDev&layout=compact&theme=dracula&card_width=600)]
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanHamdanDev&theme=neon-palenight&hide_border=true)
 
