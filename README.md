@@ -10,6 +10,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanHamdanDev&theme=neon-palenight&hide_border=true)
 
+
+┌──┤ SOCIAL ├───◼
+│
+├─◼ <a href="https://www.linkedin.com/in/hassan-hamdan-1a6a16155/">LinkedIn</a>
+│
+└─────────────────────◼
+
 <!--
 **HassanHamdanDev/HassanHamdanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
