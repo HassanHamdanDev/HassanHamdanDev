@@ -6,9 +6,9 @@
 
 ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanHamdanDev&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanHamdanDev&layout=compact&theme=dracula&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanHamdanDev&layout=compact&theme=dracula&card_width=600)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center">
- <img src ="https://github.com/anuraghazra/github-readme-stats">
+ <img src = "[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=HassanHamdanDev&show_icons=true&theme=tokyonight)"/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HassanHamdanDev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
 
