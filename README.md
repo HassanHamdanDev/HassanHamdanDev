@@ -9,7 +9,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanHamdanDev&layout=compact&theme=dracula&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HassanHamdanDev&theme=neon-palenight&hide_border=true)
-
+<a href="https://github.com/HassanHamdanDev/HassanHamdanDev">
+  <img alt="Hassan Hamdan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HassanHamdanDev&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_title=true"/>
+</a>
 
 ┌──┤ SOCIAL ├───◼
 
